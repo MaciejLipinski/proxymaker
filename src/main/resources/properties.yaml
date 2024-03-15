@@ -1,0 +1,9 @@
+pngMaker:
+  oracleUrl: https://premodernoracle.com
+  decklist: src/main/resources/decklists/test-decklist.txt
+#  decksDir: # Will save to user's home directory when not set
+pdfMaker:
+#  decksDir:
+  imageExtension: png
+  borderColor: BLACK # allowed values: BLACK, WHITE, GOLD, SILVER
+  fileName: proxies.pdf

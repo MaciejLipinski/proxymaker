@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local
+/.idea/*
+.idea/*
+.idea
+.DS_Store
+build/
+builds/
+/captures
+!/.idea/codeStyles/
+.bundle/*
+*gradle-wrapper.jar
+!**/src/main/**/build
+!**/src/test/**/build

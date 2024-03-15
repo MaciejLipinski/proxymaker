@@ -1,0 +1,307 @@
+#UG Madness
+1 Aquamoeba
+1 Arrogant Wurm
+1 Basking Rootwalla
+1 Careful Study
+1 Centaur Garden
+1 Circular Logic
+1 Deep Analysis
+1 Foil
+2 Forest
+1 Frantic Search
+2 Island
+1 Nimble Mongoose
+1 Roar of the Wurm
+1 Thriving Grove
+1 Thriving Isle
+1 Wild Mongrel
+1 Wonder
+1 Yavimaya Coast
+
+#The Rock
+1 Birds of Paradise
+1 Cabal Therapy
+1 Chainer's Edict
+1 Deranged Hermit
+2 Forest
+1 Llanowar Wastes
+1 Pernicious Deed
+1 Phyrexian Rager
+1 Ravenous Baloth
+1 Recurring Nightmare
+1 Spiritmonger
+2 Swamp
+1 Thriving Grove
+1 Thriving Moor
+1 Treetop Village
+1 Wall of Blossoms
+1 Wall of Roots
+1 Yavimaya Elder
+
+#Stiflenought
+1 Chain of Vapor
+1 Counterspell
+1 Daze
+1 Fact or Fiction
+1 Faerie Conclave
+1 Impulse
+5 Island
+1 Mana Leak
+1 Mishra's Factory
+1 Parallax Tide
+1 Phyrexian Dreadnought
+1 Portent
+1 Standstill
+1 Stifle
+1 Thriving Isle
+1 Vision Charm
+
+#Stasis
+1 Arcane Denial
+1 Black Vise
+1 Chain of Vapor
+1 Counterspell
+1 Daze
+1 Foil
+1 Forsaken City
+1 Gush
+1 Impulse
+7 Island
+1 Mana Short
+1 Propaganda
+1 Stasis
+1 Thriving Isle
+1 Thwart
+
+#Slivers
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Blade Sliver
+1 Caves of Koilos
+1 City of Brass
+1 Crystalline Sliver
+1 Dromar's Cavern
+1 Gemstone Mine
+1 Gerrard's Verdict
+1 Hibernation Sliver
+1 Lightning Bolt
+1 Metallic Sliver
+1 Muscle Sliver
+1 Plated Sliver
+1 Reflecting Pool
+1 Shivan Reef
+1 Swords to Plowshares
+1 Synapse Sliver
+1 Talon Sliver
+1 Winged Sliver
+
+#Rebels
+1 Defiant Falcon
+1 Defiant Vanguard
+1 Disenchant
+1 Jhovall Queen
+1 Lin Sivvi, Defiant Hero
+1 Mishra's Factory
+1 Mother of Runes
+5 Plains
+1 Ramosian Sergeant
+1 Ramosian Sky Marshal
+1 Shared Triumph
+1 Swords to Plowshares
+1 Thermal Glider
+1 Thriving Heath
+1 Wasteland
+1 Whipcorder
+
+#Psychatog
+2 Accumulated Knowledge
+1 Counterspell
+1 Duress
+1 Fact or Fiction
+1 Faerie Conclave
+1 Force Spike
+1 Gush
+3 Island
+1 Mana Leak
+1 Polluted Delta
+1 Psychatog
+1 Shadowmage Infiltrator
+1 Smother
+1 Swamp
+1 Thriving Isle
+1 Underground River
+1 Wonder
+
+#Pit Rack
+1 Bottomless Pit
+1 Cabal Pit
+1 Cursed Scroll
+1 Dark Ritual
+1 Diabolic Edict
+1 Duress
+1 Funeral Charm
+1 Hypnotic Specter
+1 Innocent Blood
+1 Mishra's Factory
+1 Skittering Skirge
+1 Smother
+1 Snuff Out
+4 Swamp
+1 The Rack
+1 Thriving Moor
+1 Wasteland
+
+#Oath
+1 Cataclysm
+1 Enlightened Tutor
+1 Exalted Angel
+2 Forest
+1 Mox Diamond
+1 Oath of Druids
+2 Plains
+1 Seal of Cleansing
+1 Sphere of Resistance
+1 Swords to Plowshares
+1 Sylvan Library
+1 Terravore
+1 Thermokarst
+1 Thriving Grove
+1 Thriving Heath
+1 Wasteland
+1 Windswept Heath
+1 Winter's Grasp
+
+#MUD
+1 Ancient Tomb
+1 City of Traitors
+1 Ensnaring Bridge
+1 Goblin Welder
+1 Karn, Silver Golem
+1 Masticore
+1 Metalworker
+1 Mind Stone
+3 Mountain
+1 Pyroclasm
+1 Rishadan Port
+1 Smokestack
+1 Sphere of Resistance
+1 Tangle Wire
+1 Thriving Bluff
+1 Triskelion
+1 Wasteland
+1 Winter Orb
+
+#Landstill
+2 Accumulated Knowledge
+1 Counterspell
+1 Decree of Justice
+1 Fact or Fiction
+1 Faerie Conclave
+1 Force Spike
+1 Humility
+1 Impulse
+3 Island
+1 Mana Leak
+1 Mishra's Factory
+1 Plains
+1 Powder Keg
+1 Standstill
+1 Swords to Plowshares
+1 Thriving Heath
+1 Thriving Isle
+
+#Goblins
+1 Forest
+1 Gempalm Incinerator
+1 Goblin Grenade
+1 Goblin King
+1 Goblin Lackey
+1 Goblin Matron
+1 Goblin Piledriver
+1 Goblin Ringleader
+1 Goblin Sledder
+1 Goblin Warchief
+1 Mogg Fanatic
+1 Mogg Flunkies
+3 Mountain
+1 Naturalize
+1 Siege-Gang Commander
+1 Thriving Bluff
+1 Wasteland
+1 Wooded Foothills
+
+#Enchantress
+1 Argothian Enchantress
+1 Aura of Silence
+1 Brushland
+1 Enchantress's Presence
+1 Exploration
+1 Forest
+1 Opalescence
+1 Parallax Wave
+2 Plains
+1 Replenish
+1 Seal of Cleansing
+1 Serra's Sanctum
+1 Solitary Confinement
+1 Sterling Grove
+1 Sylvan Library
+1 Thriving Grove
+1 Thriving Heath
+1 Wild Growth
+1 Windswept Heath
+
+#Elves
+1 Biorhythm
+1 Birchlore Rangers
+1 Deranged Hermit
+1 Elvish Champion
+7 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Hunting Pack
+1 Llanowar Elves
+1 Multani's Acolyte
+1 Priest of Titania
+1 Quirion Ranger
+1 Sylvan Messenger
+1 Tangle Wire
+
+#Deadguy Ale
+1 Caves of Koilos
+1 Dark Ritual
+1 Death Grasp
+1 Enlightened Tutor
+1 Exalted Angel
+1 Gerrard's Verdict
+1 Hypnotic Specter
+1 Masticore
+1 Phyrexian Arena
+2 Plains
+1 Seal of Cleansing
+1 Skeletal Scrying
+1 Smother
+2 Swamp
+1 Thriving Heath
+1 Thriving Moor
+1 Vindicate
+1 Wasteland
+
+#Burn
+1 Ball Lightning
+1 Barbarian Ring
+1 Blistering Firecat
+1 Bloodstained Mire
+1 Cursed Scroll
+1 Fireblast
+1 Flame Rift
+1 Grim Lavamancer
+1 Incinerate
+1 Jackal Pup
+1 Lightning Bolt
+1 Mogg Fanatic
+4 Mountain
+1 Shock
+1 Sulfuric Vortex
+1 Thriving Bluff
+1 Wooded Foothills
